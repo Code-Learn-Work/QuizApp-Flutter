@@ -2,6 +2,8 @@
 
 A simple quiz app that takes data from an online api and gives you multiple choice and boolean questions of various genres and difficulies.
 
+<img src="./screen-shot.png">
+
 ## Getting Started
 
 For help getting started with Flutter, view our online
